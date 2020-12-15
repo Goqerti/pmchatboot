@@ -1,0 +1,33 @@
+{
+  "name": "inzibatcibot",
+  "description": "Chat Bot",
+  "keywords": [
+    "telegram",
+    "bot",
+    "php"
+  ],
+  "website": "https://quiec.tech/",
+  "repository": "https://github.com/quiec/pmChatBot",
+  "logo": "https://www.pngmart.com/files/11/Chat-Logo-PNG-Image.png",
+  "env": {
+    "BOT_TOKEN": {
+      "description": "Bot token",
+      "required": true
+    },
+    "DB_TUR": {
+      "description": "db or json",
+      "value": "db",
+      "required": false
+    },
+    "ADMIN_ID": {
+      "description": "admin id",
+      "value": "1382528596",
+      "required": false
+    }
+  },
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
+}

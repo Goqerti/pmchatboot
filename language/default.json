@@ -1,0 +1,6 @@
+{
+    "START": "Salam, bu botla sahibimə mesaj göndərə bilərsiniz. İstənilən medianı göndərə bilərsiniz. Sahibim ən qısa müddətdə ur mesajını cavablandıracaq!",
+    "ERROR_REPLY": "*Zəhmət olmasa bir mesajı cavablandırın.*",
+    "ERROR_NOTFOUND": "*Mesaj verilənlər bazasında tapılmadı. Cavab vermək olmur.*",
+    "SENDER": "*Göndərən:*"
+}
