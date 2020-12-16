@@ -1,6 +1,6 @@
 {
-    "START": "Salam, bu botla sahibimə mesaj göndərə bilərsiniz. İstənilən medianı göndərə bilərsiniz. Sahibim ən qısa müddətdə ur mesajını cavablandıracaq!",
-    "ERROR_REPLY": "*Zəhmət olmasa bir mesajı cavablandırın.*",
-    "ERROR_NOTFOUND": "*Mesaj verilənlər bazasında tapılmadı. Cavab vermək olmur.*",
+    "START": "Salam, Mən BotMap Komandasının İnfo Botuyam\nBot Sahyəsinfə @BotMap Botlarına İrad və təkliflərinizi bildirə bilərsiniz!",
+    "ERROR_REPLY": "*Zəhmət Olmasa Cavab Verəcəyiniz Mesajı Yamıtlayın*",
+    "ERROR_NOTFOUND": "*Sənin nə drdiyini başa düşmədim.*",
     "SENDER": "*Göndərən:*"
 }
