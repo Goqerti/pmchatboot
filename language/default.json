@@ -1,5 +1,5 @@
 {
-    "START": "Salam, Mən BotMap Komandasının İnfo Botuyam\nBot Sahyəsinfə @BotMap Botlarına İrad və təkliflərinizi bildirə bilərsiniz!",
+    "START": "Salam, buyurun sizi dinləyirəm!",
     "ERROR_REPLY": "*Zəhmət Olmasa Cavab Verəcəyiniz Mesajı Yamıtlayın*",
     "ERROR_NOTFOUND": "*Sənin nə drdiyini başa düşmədim.*",
     "SENDER": "*Göndərən:*"
