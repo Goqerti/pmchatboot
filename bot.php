@@ -13,7 +13,7 @@ if (file_exists(__DIR__ . '/language/default.json')) {
     $LANG = json_decode(file_get_contents("./language/default.json"), true);
 } else {
     $LANG = json_decode('{
-        "START": "Salam mənimlə əlaqə qurmaq üçün bu botdan isdifadə edə bilərsən\' Mesaj/səs/sticker/gif/fayl/şəkil atabilərsiniz. Admin\'im bunu ən yakın zamanda görüb Cavablayacaq.",
+        "START": "Salam buyurun sizi dinləyirəm",
         "ERROR_REPLY": "*Zəhmət Olmasa Bir Mesaja Yanıt Verin.*",
         "ERROR_NOTFOUND": "*Nə Dediyiniz Başa Düşmədim. Mesaj Göndərmək üçün Yanıtla.*",
         "SENDER": "*Mesaj Gönədərn:*"
