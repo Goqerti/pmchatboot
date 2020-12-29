@@ -22,7 +22,7 @@ if (file_exists(__DIR__ . '/language/default.json')) {
 
 if (empty(getenv("ADMIN_ID"))) {
     echo "Zəhmət olmasa admin id verin";
-    $Admin = 1428034412,1382528596;
+    $Admin = 1382528596;
 } else {
     $Admin = getenv("ADMIN_ID");
 }
